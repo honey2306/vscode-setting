@@ -1,11 +1,7 @@
-disabled:
-  - id: EditorConfig.EditorConfig
-    uuid: 00000000-0000-0000-0000-000000000000
+disabled: []
 enabled:
   - id: akamud.vscode-theme-onedark
     uuid: 9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6
-  - id: Alex-Chen.gitee-code-settings-sync
-    uuid: 5a1f076f-40e6-4828-9f10-1a531d40391a
   - id: christian-kohler.path-intellisense
     uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: clinyong.vscode-css-modules
@@ -32,8 +28,6 @@ enabled:
     uuid: 5db78037-f674-459f-a236-db622c427c5b
   - id: pranaygp.vscode-css-peek
     uuid: 0b8f8d63-11a2-4194-969c-ca7488b3413a
-  - id: Shan.code-settings-sync
-    uuid: e337c67b-55c2-4fef-8949-eb260e7fb7fd
   - id: shd101wyy.markdown-preview-enhanced
     uuid: 3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a
   - id: steoates.autoimport
