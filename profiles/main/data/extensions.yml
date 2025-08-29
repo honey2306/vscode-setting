@@ -1,0 +1,54 @@
+disabled:
+  - id: EditorConfig.EditorConfig
+    uuid: 00000000-0000-0000-0000-000000000000
+enabled:
+  - id: akamud.vscode-theme-onedark
+    uuid: 9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6
+  - id: Alex-Chen.gitee-code-settings-sync
+    uuid: 5a1f076f-40e6-4828-9f10-1a531d40391a
+  - id: christian-kohler.path-intellisense
+    uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
+  - id: clinyong.vscode-css-modules
+    uuid: 5f362e62-15b7-4fd3-a839-3a240d18c49d
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: dracula-theme.theme-dracula
+    uuid: 4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: flavienbusseuil.terminus
+    uuid: 7fa5a4aa-a402-45e1-9833-5c10ee200929
+  - id: formulahendry.auto-close-tag
+    uuid: d3836729-9cc1-42c1-b2af-d50071f57d29
+  - id: formulahendry.auto-rename-tag
+    uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
+  - id: Gruntfuggly.todo-tree
+    uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
+  - id: kuscamara.remove-unused-imports
+    uuid: fc5347ee-f479-4cc0-8f02-502a055a8304
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
+  - id: PKief.material-icon-theme
+    uuid: 5db78037-f674-459f-a236-db622c427c5b
+  - id: pranaygp.vscode-css-peek
+    uuid: 0b8f8d63-11a2-4194-969c-ca7488b3413a
+  - id: Shan.code-settings-sync
+    uuid: e337c67b-55c2-4fef-8949-eb260e7fb7fd
+  - id: shd101wyy.markdown-preview-enhanced
+    uuid: 3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a
+  - id: steoates.autoimport
+    uuid: 70378119-1d85-4935-9733-0298c7a369a2
+  - id: styled-components.vscode-styled-components
+    uuid: 22a740c5-ec07-4bf0-a58f-1a38aabea310
+  - id: thenikso.github-plus-theme
+    uuid: d0db9e58-8cdf-49c5-87bf-02f037e10bb0
+  - id: usernamehw.errorlens
+    uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
+  - id: wayou.vscode-todo-highlight
+    uuid: 97a08c5f-6667-4242-a5c5-045dfb6bd4b9
+  - id: wix.vscode-import-cost
+    uuid: c46b0018-f317-4b6c-a785-d2039b27338f
+  - id: zhuangtongfa.material-theme
+    uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

@@ -1,0 +1,45 @@
+{
+  "workbench.colorTheme": "Dracula Theme",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "editor.fontWeight": "normal",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always",
+    "source.organizeImports": "never",
+    "source.removeUnusedImports": "always"
+  },
+  "editor.fontFamily": "Fira Code, JetBrains Mono, monospace",
+  "editor.fontLigatures": true,
+  "git.confirmSync": false,
+  "window.zoomLevel": 0.5,
+  "git.autofetch": true,
+  "editor.fontSize": 13,
+  "editor.linkedEditing": true,
+  "workbench.editor.enablePreview": false,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "extensions.extensionMarketUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+  "removeUnusedImports.preserve": ["React", "ReactDOM"],
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "editor.indentSize": "tabSize",
+  "editor.useEditorConfig": false,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": ["variable.other.property", "support.type.property-name.json"],
+        "settings": {
+          "foreground": "#8BE9FD"
+        }
+      }
+    ]
+  },
+  "[typescriptreact]": {},
+  "sync.autoDownload": true,
+  "sync.quietSync": true,
+  "sync.forceUpload": true,
+  "sync.forceDownload": true,
+  "sync.autoUpload": true,
+  "sync.gist": "82e3e9f4e1aaa0124d1bd47efb9be1e5"
+}
